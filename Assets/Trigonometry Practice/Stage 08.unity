@@ -37836,6 +37836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Moving Platform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5916547909676815882, guid: df0bde85ef34cec4c9da2facbfaaa25d, type: 3}
+      propertyPath: m_TagString
+      value: Platform
+      objectReference: {fileID: 0}
     - target: {fileID: 5916547909676815892, guid: df0bde85ef34cec4c9da2facbfaaa25d, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -38003,7 +38007,7 @@ GameObject:
   - component: {fileID: 1129141716}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40216,6 +40220,10 @@ PrefabInstance:
     - target: {fileID: 5916547909676815882, guid: df0bde85ef34cec4c9da2facbfaaa25d, type: 3}
       propertyPath: m_Name
       value: Moving Platform
+      objectReference: {fileID: 0}
+    - target: {fileID: 5916547909676815882, guid: df0bde85ef34cec4c9da2facbfaaa25d, type: 3}
+      propertyPath: m_TagString
+      value: Platform
       objectReference: {fileID: 0}
     - target: {fileID: 5916547909676815892, guid: df0bde85ef34cec4c9da2facbfaaa25d, type: 3}
       propertyPath: m_RootOrder
